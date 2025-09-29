@@ -19,7 +19,7 @@ This task involves capturing and analyzing network traffic using Wireshark on a 
 - Used Wireshark on the active interface **wlan0**.  
 - Browsed websites and pinged servers to generate traffic.  
 - Applied filters for **TCP, HTTP, and DNS protocols**.  
-- Captured traffic for **2–2.5 minutes** and saved it as `task5.pcap`.  
+- Captured traffic for **2–2.5 minutes** and saved it as `tasks.pcap`.  
 
 ---
 
